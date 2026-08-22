@@ -1,4 +1,4 @@
-Compiler Design Experiments
+**Compiler Design Experiments**
 
 This repository contains the Compiler Design Laboratory experiments implemented as part of the academic curriculum. The programs demonstrate important concepts used in the different phases of a compiler, including lexical analysis, syntax analysis, parsing, intermediate code generation, and code optimization.
 
